@@ -19,8 +19,4 @@ function MoveState(){
 }
 
 function Push(){
-	if(place_meeting(x, y, oBox) && moveX != 0)
-	{
-		
-	}
 }

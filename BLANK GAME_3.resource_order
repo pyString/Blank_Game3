@@ -15,15 +15,8 @@
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
-    {"name":"Aberration Boxes","order":3,"path":"folders/Objects/Aberration Boxes.yy",},
   ],
   "ResourceOrderSettings": [
-    {"name":"sAbRed","order":4,"path":"sprites/sAbRed/sAbRed.yy",},
-    {"name":"oGreen","order":1,"path":"objects/oGreen/oGreen.yy",},
-    {"name":"oRed","order":2,"path":"objects/oRed/oRed.yy",},
-    {"name":"oBlue","order":3,"path":"objects/oBlue/oBlue.yy",},
-    {"name":"sAbBlue","order":3,"path":"sprites/sAbBlue/sAbBlue.yy",},
-    {"name":"sAbGreen","order":2,"path":"sprites/sAbGreen/sAbGreen.yy",},
     {"name":"sColTile","order":1,"path":"sprites/sColTile/sColTile.yy",},
   ],
 }

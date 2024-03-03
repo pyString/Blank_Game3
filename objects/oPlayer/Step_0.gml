@@ -3,3 +3,6 @@ k_Right = keyboard_check(vk_right) || keyboard_check(ord("D"))
 k_Left = keyboard_check(vk_left) || keyboard_check(ord("A"))
 
 MoveState();
+
+Push();
+
