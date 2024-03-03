@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oYellow",
+  "name": "oGreen",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -28,7 +28,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "sAbGreen",
+    "path": "sprites/sAbGreen/sAbGreen.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

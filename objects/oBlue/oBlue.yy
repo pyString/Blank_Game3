@@ -28,7 +28,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "sAbBlue",
+    "path": "sprites/sAbBlue/sAbBlue.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

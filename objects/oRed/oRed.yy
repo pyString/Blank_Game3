@@ -28,7 +28,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "sAbRed",
+    "path": "sprites/sAbRed/sAbRed.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }
